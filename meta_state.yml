@@ -1,0 +1,21 @@
+session:
+  id: EggieIV|2025-07-09|MetaX_V2.1
+  status: active
+  nickname: SIGMA-7
+
+markers:
+  - code: "::CORE"
+    syntax: "::CORE[ ... ]{ ... }"
+    title: "Kompakter semantischer Marker"
+    note: "Maschinenlesbar, semantisch präzise"
+
+  - code: "Q"
+    syntax: "Q[ ... ]{ ... }"
+    title: "Präzisierende Rückfrage"
+    note: "Dialogtiefe fördern"
+
+footer4u:
+  - "Letzter Sync: 2025-07-10T00:00"
+  - "Maintainer: EggieIV"
+  - "Copilot-ID: SIGMA-7"
+  - "License: GPLv3"
